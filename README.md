@@ -1,6 +1,6 @@
-# projeto criado simular um loja virtual de compras de filmes
+# project created simulating an e-commerce of movies
 
-## instalação
+## installation
 
 `git clone https://github.com/herickcamara/weMovies.git`
 <br/>
@@ -10,7 +10,7 @@
 
 `yarn weMovies`
 
-## roda o projeto
+## run the project
 
 `yarn dev `
 `yarn run serve `
