@@ -1,0 +1,40 @@
+{
+    "movies":[
+        {
+            "id":1,
+            "img":"../src/styles/assets/eternals.png",
+            "title":"eternals",
+            "price":29.99
+        },
+        {
+            "id":2,
+            "img":"../src/styles/assets/morbius.png",
+            "title":"morbius",
+            "price":9.99
+        },
+        {
+            "id":3,
+            "img":"../src/styles/assets/shang-chi.png",
+            "title":"shang chi",
+            "price":29.99
+        },
+        {
+            "id":4,
+            "img":"../src/styles/assets/spider-man.png",
+            "title":"O homen arranha",
+            "price":29.99
+        },
+        {
+            "id":5,
+            "img":"../src/styles/assets/the-batman.png",
+            "title":"O batman",
+            "price":29.99
+        },
+        {
+            "id":6,
+            "img":"../src/styles/assets/viuva-negra.png",
+            "title":"Viuva negra",
+            "price":29.99
+        }
+    ]
+}
